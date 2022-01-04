@@ -3,7 +3,7 @@ Hi, I’m @xecrets
 I’m the original developer of AxCrypt, a file encryption software for Windows. Although I've left this behind, I am still the custodian of the original version 1 source code,
 now named Xecrets File Encryption, available at https://github.com/xecrets/xecrets-file .
 
-I mostly work in c#/.NET and mostly with backend, although I've been known to do some things in JavaScript and React lately.
+I mostly work in C#/.NET and mostly with backend, although I've been known to do some things in JavaScript and React lately.
 
 There are times when I leave the computer and ski the mountains of the world like an ordinary man.
 
