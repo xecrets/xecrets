@@ -1,7 +1,7 @@
 Hi, I’m @xecrets
 
 I’m the original developer of AxCrypt, a file encryption software for Windows. This has since evolved into a cross-platform software for various platforms,
-but is now run and maintained by a different company. Here on github you'll find the third iteration, called Xecrets Ez and Xecrets Command Line
+but is now run and maintained by a different company. Here on github you'll find the third iteration, called Xecrets Ez and Xecrets Cli
 available at https://github.com/xecrets/xecrets-cli, fully compatible, but remade into something sleeker and slimmer for Windows, macOS and Linux
 with both a desktop app (Ez) and a fully featured command line.
 I am also still the custodian of the original version 1 source code, now named Xecrets File Encryption 1.7.x,
